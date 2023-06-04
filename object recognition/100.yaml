@@ -1,0 +1,4 @@
+train: 100/train/images
+val: 100/val/images
+nc: 2
+names: ['Chart', 'Table']

@@ -1,0 +1,4 @@
+train: vins/train/images
+val: vins/val/images
+nc: 8
+names: ['Text', 'Icon', 'Image', 'TextButton', 'UpperTaskBar', 'EditText', 'PageIndicator', 'CheckedTextView']

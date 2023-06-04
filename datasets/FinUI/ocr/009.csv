@@ -1,0 +1,139 @@
+xmin,ymin,xmax,ymax,txt
+993,15,1023,35,CG
+1051,15,1105,35,BOOK
+1131,15,1159,35,QP
+1201,19,1231,35,AM
+1263,17,1303,35,WIR
+44,63,190, 92,Learning Portal
+206,66,372,90,Today's Top News
+386,66,522,90,Markets (Beta)
+536,63,610,92,Quotes
+624,63,706,92,Charting
+720,66,830,90,Economics
+840,66,920,90,Industry
+938,64,1106,90,Company/Security
+1198,63,1268,92,Filings
+1278,63,1378,92,Screening
+1392,66,1472,90,Portfolio
+1487,65,1594,90,Ownership
+1605,65,1700,90,Research
+16,130,88,154,BCE-CA
+12,185,111,209,REPORTS
+337,189,401,209,LOCAL
+12,238,104,262,Overviews
+334,242,676,272,BCE Inc. (BCE-CA) C$58.03
+716,244,926,268,Next Rpt Date: 02 Feb '17
+966,244,1080,268,Key Statistics
+1168,243,1508,269,FactSet Fundamentals / FactSet Estmates
+28,278,122,306,Snapshot
+28,320,166,346,Entity Structure
+348,316,554,342,Business Description
+968,316,1128,340,Telecom Metrics
+1720,315,1856,342,Key Statistics
+28,359,173,384,Event Calenoar
+348,362,924,533,"BCE, Inc. provides communication services to residential and business customers in Canada. The company offers various services, including bell mobility wireless, high-speed bell internet, bell satellite TV and bell fibe TV, bell home phone local and long distance and bell business markets internet protocol-broadband and information and communications technology services. It operates its business through four reportable segments: Bell Wireline, Bell Wireless, Bell Media and Bell Aliant..."
+1157,367,1213,387,FY'15
+1237,367,1303,387,FY'I6E
+1327,367,1383,387,Q3'16
+1407,367,1477,387,Q4'16E
+1500,366,1570,390,Q1'I7E
+1592,366,1662,390,Q2'I7E
+1720,363,1854,391,52 Week Range
+977,395,1117,415,Nb of Subscriber...
+1720,390,1866,414,Avg Daily Vol (3 M)
+28,400,98,426,Comps
+978,420,1034,444,ARPU
+1189,423,1213,441,63
+1279,423,1303,443,65
+1359,423,1383,443,68
+1451,423,1477,441,66
+1720,416,1862,440,Market Value (M)
+27,439,154,469,Supply Chain
+1720,440,1836,466,Ent Value (M)
+977,446,1068,472,Churn (%)
+1185,449,1215,469,1.5
+1275,453,1303,467,1.4
+1353,449,1383,469,1.4
+1447,449,1477,469,1.5
+1720,466,1850,492,Shares Out (M)
+28,480,182,506,Capital Structure
+1722,492,1838,516,Dividend Yield
+865,509,911,529,More
+28,518,136,546,RBICS Rev
+1721,519,1769,539,Float
+1721,545,1817,565,Institutional
+28,560,108,586,GeoRev
+1721,571,1861,591,Top 10 Inst Hldrs
+28,600,126,624,Reference
+348,598,558,624,Corporate Information
+967,596,1160,627,Business Segments
+1531,605,1609,625,Business
+1720,593,1868,620,Analyst Coverage
+1719,619,1826,647,Target Price
+12,643,245,671,News Rescarch ond Filings
+348,646,464,670,Headquarters
+534,646,810,670,"Verdun, Quebec H3E 3B3 Canada"
+1233,649,1301,669,Tot Rev
+1329,649,1401,669,% of Tot
+1424,648,1484,672,Op Inc
+1511,649,1571,669,Assets
+1598,648,1662,672,Cap Ex
+1720,646,1854,670,LT Growth Rate
+347,671,462,699,Management
+534,672,676,696,Gordon M. Nixon
+979,677,1077,697,Bell Wireline
+1243,677,1303,697,12.043
+1375,677,1399,697,56
+1433,673,1487,700,5000
+1613,677,1663,697,2809
+13,693,69,713,Prices
+534,698,732,722,George Alexander Cope
+978,702,1084,726,Bell Wireless
+1250,702,1304,726,6836
+1375,705,1397,723,32
+1434,702,1486,726,2828
+1626,702,1664,726,716
+537,725,643,745,Glen LeBanc
+978,730,1064,754,Bell Media
+1249,727,1304,755,2635
+1449,731,1485,751,723
+1375,731,1397,751,12
+1627,731,1661,751,101
+12,738,106,762,Ownershp
+347,747,462,777,# Employees
+534,748,596,772,49868
+11,783,98,809,Financials
+12,829,214,857,Financials - As Reported
+348,854,394,878,EPS
+968,854,1096,880,Price Volume
+13,879,95,899,Estimates
+358,903,446,930,FY Ending
+514,904,580,928,Dec '14
+614,904,682,928,Dec '15
+719,907,795,927,Dec '16E
+835,907,911,927,Dec '17E
+1731,905,1757,925,70
+12,924,136,948,Credit Analysis
+358,932,438,956,Q1 (Mar)
+538,932,580,956,0.81
+640,932,682,956,0.84
+754,932,798,956,0.85
+871,933,911,953,0.88
+1036,920,1118,946,BCE-CA
+1172,919,1440,949,Canada S&P/T$X Composite
+1731,931,1757,951,60
+1788,906,1875,954,C$5
+358,958,438,984,Q2 (Jun)
+539,961,579,981,0.82
+641,961,679,981,0.87
+755,961,795,981,0.94
+871,961,909,981,0.97
+1730,960,1758,984,50
+11,969,122,995,Transactions
+1790,978,1870,1002,YTD Chg
+359,987,437,1007,Q3 (Sep)
+539,987,579,1007,0.83
+641,987,681,1007,0.93
+755,987,795,1007,0.91
+871,987,911,1007,0.94
+1720,667,1812,699,Avg Rating

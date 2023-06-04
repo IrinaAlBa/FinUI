@@ -1,0 +1,201 @@
+xmin,ymin,xmax,ymax,txt
+0,0,557,28,"S&P Global, Inc. (NYSE:SPGI) Financials > Key Stats"
+24,34,86,62,Download This Page
+112,34,172,62,Download Financials
+189,34,221,62,10-K
+237,34,271,62,10-Q
+291,34,327,62,FAQs
+352,34,402,62,Create Activity
+422,34,468,62,Add to Binder
+485,34,517,62,1 Item
+13,76,83,99,Key Stats
+95,80,222,99,Income Statement 
+222,80,322,99,Balance Sheet
+322,80,395,99,Cash Flow
+395,80,460,99,Multiples
+460,80,566,99,Cap. Structure 
+566,80,612,99,Ratios  
+612,80,712,99,Supplemental 
+712,80,830,99,Industry Specific  
+830,80,925,99,Pension/OPEB 
+925,80,1001,99,Segments
+2,112,75,131,Currency:
+130,113,253,133,Tradirg Currercy
+421,113,507,129,Conversion:
+565,113,697,133,Today's Spot Rate
+881,111,1015,131,Enable Freeze Panes
+3,141,51,159,Order:
+131,141,243,161,Latest on Right
+419,143,465,157,Units:
+565,141,741,161,S&P Capital IQ (Default)
+835,141,866,161,Go
+883,143,971,159,More Options
+969,169,1023,185,View All
+1,196,465,215,"Key Financials In Millions of the trading currency, except per share items."
+29,225,183,241,Chart Selected Items
+1027,227,1067,243,LTM
+469,243,547,259,12 months
+597,241,677,259,12 months
+695,241,753,257,EBITDA
+1013,243,1069,259,months
+1113,243,1199,259,12 months
+1251,243,1331,259,12 months
+1383,243,1461,259,12 months
+3,256,203,277,For the Fiscal Period Ending
+445,258,545,274,Dec-31-2012A
+574,258,674,274,Dec-31-2013A
+693,257,807,273,"S&P Global, Inc."
+1021,259,1067,275,2016A
+1099,259,1199,275,Dec-31-2016E
+1229,259,1329,275,Dec-31-2017E
+1363,257,1461,275,Dec-31-2018E
+2,274,69,293,Currency
+515,275,547,291,USD
+645,275,677,291,USD
+693,273,823,289,Standardized Data
+1037,275,1069,291,USD
+1167,277,1199,291,USD
+1299,277,1329,291,USD
+1431,275,1463,291,USD
+3,293,47,309,[197]
+693,287,909,305,Dec-31-2012 - US Dollar (mm)
+3,307,143,325,Total Revenue [28]
+493,309,549,325,"4,270.0"
+623,309,679,325,"4,702.0"
+705,303,803,319,Total Revenues
+932,301,995,319,"4,270.00"
+1015,309,1071,325,"5,521.0"
+1137,309,1201,325,"5,609.18"
+1267,307,1331,325,"5,780.55"
+1401,309,1463,325,"6,097.96"
+23,327,225,343,Growth Over Prior Year [4194]
+509,327,547,343,8.0%
+631,327,677,343,10.1%
+705,319,819,334,Cost Of Revenues
+932,319,995,334,"1,433.00"
+1030,327,1067,339,6.8%
+1153,325,1193,339,5.57%
+1284,327,1325,341,3.06%
+1415,327,1463,343,5.49%
+704,334,927,351,Selling General & Admin Expenses
+932,334,995,351,"1,352.00"
+1005,339,1106,355,D&EA Expenses
+5,345,125,365,Gross Profit [10]
+493,349,547,363,"2,837.0"
+623,347,679,363,"3,138.0"
+705,351,927,366,"Depreciation & Amortization, Total"
+943,351,995,366,141.00
+1005,357,1135,371,As Presented Data
+21,365,141,381,Margin % [4074]
+501,365,545,381,66.4%
+630,364,675,380,66.7%
+705,363,811,382,D&A for EBITDA
+943,363,995,382,141.00
+1005,371,1220,387,Dec-31-2012 - US Dollar (mm)
+1407,365,1463,381,83.67%
+4,383,113,403,EBITDA [4051]
+493,387,547,403,"1,485.0"
+622,383,679,403,"1,715.0"
+705,381,761,397,EBITDA
+933,381,995,397,"1,485.00"
+1019,389,1191,404,Amortization of intangibles
+1283,387,1323,403,48.00
+1398,383,1463,403,"2,876.16"
+23,403,141,419,Margin % [4047]
+499,403,547,419,34.8%
+631,403,677,419,36.5%
+695,397,967,413,Reconciliation with GAAP Net Income:
+1018,404,1101,420,Depreciation
+1283,403,1323,419,93.00
+1407,403,1463,419,47.17%
+705,413,811,428,D&A for EBITDA
+943,413,995,428,141.00
+1019,419,1057,435,Total
+1275,419,1323,437,141.00
+5,423,85,441,EBIT [400]
+493,425,549,441,"1,344.0"
+623,425,679,441,"1,578.0"
+705,429,853,445,Net Interest Expenses
+941,429,995,445,(81.00)
+1401,425,1463,441,"2,755.02"
+23,441,141,457,Margin % [4053]
+499,441,547,457,31.5%
+631,441,677,457,33.6%
+705,445,841,460,"Unusual Items, Total"
+933,443,995,460,(174.00)
+1023,441,1069,457,39.1%
+1145,441,1199,457,41.77%
+1275,441,1331,457,43.80%
+1407,441,1463,457,45.18%
+5,461,207,479,Earninas from Cont. Ops. [7]
+505,463,549,479,701.0
+635,463,679,479,874.0
+705,460,841,475,Income Tax Expense
+945,460,995,475,388.00
+1017,463,1071,479,"1,292.0"
+21,479,141,495,Margin % [4181]
+501,481,547,495,16.4%
+631,481,677,495,18.6%
+705,475,893,493,Minoriy Interest in Earnings
+943,475,995,493,(50.00)
+1021,479,1069,495,23.4%
+704,493,871,507,Earnings Of Dicontinued
+3,499,125,517,Net Income [15]
+505,501,549,517,437.0
+623,501,679,517,"1,376.0"
+705,507,777,523,Operations
+933,499,997,515,(214.00)
+1015,501,1071,517,"1,177.0"
+1137,501,1199,517,"1,367.71"
+1267,501,1331,517,"1,494.35"
+1399,501,1463,517,"1,613.72"
+20,517,141,536,Margin % [4094]
+501,519,547,535,10.2%
+631,519,677,535,29.3%
+705,523,783,538,Net Income
+945,521,995,538,437.00
+1021,519,1069,535,21.3%
+1143,519,1199,535,24.38%
+1272,515,1331,535,25.85%
+1405,515,1463,535,26.46%
+3,537,263,555,Diluted EPS Excl. Extra Items [142]
+515,539,547,555,2.29
+645,539,679,555,2.80
+695,538,995,569,Capital IQ has reviewed the MD&A and Footnotes for unusual charges
+1037,539,1071,555,4.36
+1167,541,1199,555,5.21
+1297,541,1331,555,5.87
+1431,539,1463,555,6.63
+23,557,225,573,Growth Over Prior Year [4200]
+499,557,547,573,14.5%
+631,557,677,573,22.3%
+1045,557,1071,571,NM
+1143,557,1199,573,15.10%
+1273,557,1331,573,12.49%
+1407,557,1463,573,13.09%
+1,575,1139,593,"All resuls are taken from the most recently filed statement for each period. When there has been more than one, earlier filings can be viewved on the individual statement pages"
+1,593,631,609,Growth rates for the LTM period are calculated against the LTM period ending 12 months before
+1,609,863,624,All forward period figures are consensus mean estimates provided by the brokers and may nor be on a comparable basis as financials
+1,624,989,642,Growth rates for forward periods are calculated against prior period estimates or actual pro forma results as disclosed on the Estimates Consensus page
+1,642,793,659,Latest Annual: Income Statement Balance Sheet Cash Flow Latest Interim: Income Statement Balance Sheet Cash Flow
+1,687,535,707,Latest Capitalization (Millions of USD)View Historical Capitalization
+5,709,71,724,Currency
+501,709,533,723,USD
+5,724,149,742,Share Price [100052]
+471,725,533,741,$ 123.15
+5,742,155,759,Shares Out. [100053]
+491,742,533,759,264.0
+5,761,227,780,Market Capitalization [100054]
+471,761,535,780,"32,511.6"
+15,780,281,796,Cash & Short Term Investments [1002]
+479,780,533,796,"1,567.0"
+19,796,141,814,Total Debt [4173]
+478,796,533,814,"3,779.0"
+19,814,149,831,Pref. Equiy [1005]
+19,831,219,848,Total Minority Interest [1312]
+491,831,533,848,969.0
+19,847,293,867,Total Enterprise Value (TEV) [100060]
+471,851,533,867,"35,692.6"
+1131,767,1185,801,Net Liability
+1131,801,1185,836,Total Liability
+1131,836,1199,870,Common Equity

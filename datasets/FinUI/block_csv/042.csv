@@ -1,0 +1,5 @@
+xmin,ymin,xmax,ymax,class
+1,1,1269,103,block
+1,103,252,1172,block
+253,103,1269,364,block
+253,365,1269,1172,block

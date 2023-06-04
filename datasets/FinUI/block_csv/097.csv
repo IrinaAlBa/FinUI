@@ -1,0 +1,7 @@
+xmin,ymin,xmax,ymax,class
+1,1,246,788,block
+244,1,1400,77,block
+246,77,690,788,block
+690,77,1400,235,block
+691,237,1004,788,block
+1004,237,1400,788,block

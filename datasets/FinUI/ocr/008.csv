@@ -1,0 +1,70 @@
+xmin,ymin,xmax,ymax,txt
+15,9,43,27,File
+73,9,117,27,Home
+143,9,183,27,Insert
+209,9,247,27,Draw
+271,9,355,27,Page Layout
+381,9,445,27,Formulas
+471,9,503,27,Data
+529,9,577,27,Review
+603,9,639,27,View
+664,9,733,27,Developer
+759,9,795,27,Help
+1223,9,1263,27,Share
+1305,9,1381,27,Comments
+21,49,121,69,OVO Wallet
+603,91,741,107,Interactive Controls
+442,114,898,122,Use the levers provided to adjust key elements of the Financial Model and View the resultant change in projection
+304,138,362,146,ASSUMPTION
+963,137,1043,149,REVENUE PIPELINES
+546,156,616,164,Change Decimals
+682,168,778,176,% of total swap amount
+1197,167,1227,179,0.5%
+43,179,137,191,PKR to USD Convcrsion
+315,191,337,203,PKR
+503,191,539,205,153.12
+682,192,889,200,"% of total transaction (Stable Coins: USDT, DAI, etc.)"
+1197,191,1227,203,0.5%
+682,218,778,226,Portion of total amount
+43,240,303,253,Marketing Budget For Years 2022 - 2025 as a Percentage of 2021
+407,241,429,253,10%
+682,242,774,250,Revenue for MoonPay:
+1198,254,1224,262,1.00%
+682,260,740,268,Bank Transfer
+1050,260,1135,268,Whichever is higher
+1198,266,1222,274,$4.99
+682,280,722,288,MoonPay
+41,291,191,303,Downloads Needed (First 6 Months)
+398,292,426,300,50000
+1198,291,1227,300,3.50%
+682,298,754,306,Debit/Credit Card
+1050,298,1135,306,Whichever is higher
+1198,304,1222,312, $4.99
+682,330,754,338,Revenue for Xord
+41,341,159,353,Percentage of Facebook Ads
+994,342,1162,352,% of MoonPay's Bank Transfer % Float Fee
+1197,342,1227,352,0.5%
+682,348,740,356,Bank Transfer
+994,352,1162,365,% of MoonPay's Bank Transfer % Fixed Fee
+1197,352,1219,365,20%
+682,366,704,374,Xord
+993,377,1178,389,% of MoonPay's Debit/Credit Card % Float Fee
+1197,377,1227,389,0.5%
+682,384,754,392,Debit/Credit Card
+41,392,170,400,Percentage of Google AdWords
+993,389,1178,400,% of MoonPay's Debit/Credit Card % Fixed Fee
+1197,389,1219,400,20%
+425,439,521,450,FINANCING PORTFOLIO
+330,454,410,462,Initial Coin Offering
+432,454,540,462,Institutional Investments
+540,454,628,462,Xord Personal Funds
+358,465,378,477,74%
+473,465,497,477,25%
+579,465,596,477,1%
+95,662,193,681,Control Sheet
+209,662,295,681,Assumptions
+321,662,525,681,Revenue and Expense Forecasts
+555,662,749,681,Financing and Payback Period
+777,662,857,681,Data Visuals
+5,691,43,707,Ready
+1363,691,1391,705,58%

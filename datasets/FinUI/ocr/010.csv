@@ -1,0 +1,84 @@
+xmin,ymin,xmax,ymax,txt
+67,35,103,51,SAFE
+67,49,133,67,WALLET
+248,38,364,62,"Hello, Bikshu"
+846,52,874,60,Search
+49,105,105,119,Dashboard
+271,117,423,133,My spending for December
+577,115,715,131,My cashflow for October
+827,117,913,137,Your cards
+269,135,415,149,"Great, your budget is on track"
+525,147,563,159,Earned
+626,148,684,156,$1024 of $1800
+59,153,115,165,Transaction
+373,159,403,173,Food
+437,159,467,173,$130
+851,163,913,179,Indusind
+1001,165,1041,185,VISA
+374,186,410,194,Leasure
+437,185,467,197,$455
+525,181,557,195,Spent
+658,184,682,192,S1300
+851,179,927,191,NEXXT PREMIUM
+57,199,101,213,Pay bills
+267,197,301,211,Spent
+254,210,312,234,$1300
+373,211,401,223,Rent
+437,211,467,223,$390
+937,213,965,225,8046
+565,223,651,235,In the wallet now
+656,212,714,238,$8280
+259,235,309,249,of $1500
+373,235,407,249,Other
+437,235,461,249,$65
+851,239,903,251,Card Holder
+1004,240,1034,248,Expires
+57,247,107,261,Analytics
+851,255,911,269,Bikshapati
+1003,255,1041,267,09/23
+373,273,407,285,Saved
+437,273,467,285,$260
+59,295,89,307,Cards
+553,289,719,305,Earnings for the last 6 months
+524,315,556,324,$2400
+524,339,557,353,$2200
+524,365,557,379,$2000
+524,391,557,403,$1800
+524,415,557,429,$1600
+829,323,923,337,Recent Activities
+57,341,93,353,Profile
+266,338,411,356,Progress of financial goals
+829,341,923,353,"Today, October 20"
+843,369,969,385,Payment In SPENCERS
+1043,371,1075,385,-$105
+56,386,101,403,Settings
+229,383,289,395,Trip to Italy
+355,383,417,397,New Laptop
+843,384,993,407,Store payment in the shopping center SPENCERS
+261,405,335,419,$2300 of $2700
+387,405,461,419,$1000 01 $2100
+261,417,313,429,10 days lelt
+387,417,439,429,30 days left
+843,415,987,429,Payment in VISHAL MART
+1049,413,1075,427,-$30
+843,430,990,451,Store paymieml in the shodding in Vishal Mart
+843,461,977,475,Payment in REYMONDS
+1043,455,1075,469,-$235
+229,475,301,489,Repair the Car
+355,475,413,489,Trip to Goa
+843,476,993,498,Store payment in the shopping in Reymonds
+261,499,329,511,$800 of $1500
+385,499,455,511,$500 of $3000
+525,495,611,511,Track expenses
+261,512,320,520,2 months left
+385,512,444,520,3 months left
+829,517,937,531,"Yesterday, October 19"
+538,528,577,542,Income
+539,549,573,563,Spent
+842,544,1021,562,Payment in BHARAT PETROLE
+1047,545,1073,559,-$95
+239,563,371,577,Create anew financial goal
+843,561,987,580,Store payment in the Bharath Petroleum
+595,573,768,583,Mon Tue Wed Thu Fri Sat Sun
+43,583,83,601,Logout
+
